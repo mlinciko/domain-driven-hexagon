@@ -66,4 +66,4 @@ module.exports = {
     ],
   },
 };
-console.log('Test' + 'git' + 'part 3' + 'new')
+console.log('Test' + 'git' + 'part 3' + 'new'+'commit')
